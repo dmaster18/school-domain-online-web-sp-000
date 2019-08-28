@@ -25,5 +25,5 @@ scarsdale.new_student("Alan")
 scarsdale.new_student("Bernice")
 scarsdale.new_student("Lamar")
 scarsdale.new_student("Chaim")
-scarsdale.new_student("Muhammad")
+scarsdale.new_student("Mohammed")
 scarsdale.roster
