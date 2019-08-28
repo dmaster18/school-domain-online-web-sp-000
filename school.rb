@@ -19,6 +19,7 @@ class School
   end
   
   def roster
+    ROSTER
 end
 
 scarsdale = School.new("Scarsdale High School")
