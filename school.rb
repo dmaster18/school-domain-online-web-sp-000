@@ -9,7 +9,8 @@ class School
   end
   
   def new_student(student_name, grade
-    @student_name = student_name    
+    @student_name = student_name
+    @grade 
     ROSTER << student_name
   end
   
