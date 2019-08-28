@@ -1,5 +1,5 @@
 class School
-  ROSTER = {}
+  ROSTER = {@student }
   def initialize(school_name)
     @school_name = school_name
   end
