@@ -15,4 +15,4 @@ class School
   end
 end
 
-scarsdale = 
+scarsdale = School.new("Scarsdale High School")
