@@ -1,5 +1,5 @@
 class School
-  ROSTER = { => @student_name}
+  ROSTER = {9 => []}
   def initialize(school_name)
     @school_name = school_name
   end
