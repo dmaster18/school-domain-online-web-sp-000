@@ -21,10 +21,10 @@ class School
 end
 
 scarsdale = School.new("Scarsdale High School")
-scarsdale.new_student("Joe")
-scarsdale.new_student("Alan")
-scarsdale.new_student("Bernice")
-scarsdale.new_student("Lamar")
+scarsdale.new_student("Joe", 9)
+scarsdale.new_student("Alan", 10)
+scarsdale.new_student("Bernice", 11)
+scarsdale.new_student("Lamar", 9)
 scarsdale.new_student("Chaim")
 scarsdale.new_student("Mohammed")
 scarsdale.roster
