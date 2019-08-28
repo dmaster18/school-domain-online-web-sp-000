@@ -14,3 +14,4 @@ class School
     puts "Their names are: #{ROSTER}"
   end
 end
+
