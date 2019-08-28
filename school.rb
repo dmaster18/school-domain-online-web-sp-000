@@ -17,6 +17,8 @@ class School
   def roster_printout
     puts "The roster is as follows: #{ROSTER}"
   end
+  
+  def roster
 end
 
 scarsdale = School.new("Scarsdale High School")
@@ -26,5 +28,5 @@ scarsdale.new_student("Bernice", 11)
 scarsdale.new_student("Lamar", 9)
 scarsdale.new_student("Chaim", 11)
 scarsdale.new_student("Mohammed", 12)
-scarsdale.roster
+scarsdale.roster_printout
 scarsdale.roster[]
