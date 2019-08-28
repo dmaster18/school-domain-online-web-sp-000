@@ -22,3 +22,4 @@ end
 scarsdale = School.new("Scarsdale High School")
 scarsdale.new_student("Joe")
 scarsdale.new_student("Alan")
+scarsdale.new_student("Bernice")
