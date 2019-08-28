@@ -1,5 +1,5 @@
 class School
-  ROSTER = {@grade => @student_name}
+  ROSTER = { => @student_name}
   def initialize(school_name)
     @school_name = school_name
   end
