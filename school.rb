@@ -5,6 +5,7 @@ class School
   end
   
   def school_name
+    @school_name
   
   def new_student(student_name)
     @student_name = student_name    
