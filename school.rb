@@ -11,7 +11,7 @@ class School
   def new_student(student_name, grade)
     @student_name = student_name
     @grade = grade
-    ROSTER[grade] << student_name
+    ROSTER[grade] = student_name
   end
   
   def roster
