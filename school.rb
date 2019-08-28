@@ -31,4 +31,4 @@ scarsdale.new_student("Lamar", 9)
 scarsdale.new_student("Chaim", 11)
 scarsdale.new_student("Mohammed", 12)
 scarsdale.roster_printout
-puts "Grade #{scarsdale.roster.keys[2]scarsdale.roster[10]
+puts "Grade #{scarsdale.roster.keys[1]scarsdale.roster[10]
