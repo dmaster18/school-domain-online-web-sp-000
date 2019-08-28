@@ -16,7 +16,7 @@ class School
   
   def roster
     puts "There are #{ROSTER.length} students in #{@school_name}."
-    puts "Their names are: #{ROSTER}"
+    puts "The roster is as follows: #{ROSTER}"
   end
 end
 
