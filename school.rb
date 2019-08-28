@@ -20,4 +20,4 @@ class School
 end
 
 scarsdale = School.new("Scarsdale High School")
-scarsdale.name
+scarsdale.new_student
